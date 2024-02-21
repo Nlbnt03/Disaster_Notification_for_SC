@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "604252346484",
+    "firebase_url": "https://afet-ihbar-default-rtdb.firebaseio.com",
+    "project_id": "afet-ihbar",
+    "storage_bucket": "afet-ihbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604252346484:android:c85a99d65eca596aee9921",
+        "android_client_info": {
+          "package_name": "com.nalbantsoft.afet_ihbar_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidbYNEDSu5ayK_TztUrl_u5Gcnpl_TTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
